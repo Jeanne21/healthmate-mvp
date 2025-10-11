@@ -123,5 +123,3 @@ Software Engineer | AI & Mobile Development Enthusiast
 ---
 
 > 💬 *“Empowering rural communities through smart, accessible healthcare technology.”*
-
-```

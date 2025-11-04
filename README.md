@@ -18,7 +18,7 @@ The HealthMate MVP consists of two main components:
 ## 🚀 Live Demo
 
 - 🌐 **Web Version:** [https://healthmate.web.app](https://healthmate.web.app)  
-- 🧠 **API Base URL:** [https://healthmate-api.onrender.com](https://healthmate-api.onrender.com)
+- 🧠 **API Base URL:** [https://healthmate-api.onrender.com](https://healthmate-backend-kh0n.onrender.com)
 
 *(Update the links above once deployed)*
 

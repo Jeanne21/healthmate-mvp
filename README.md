@@ -17,10 +17,8 @@ The HealthMate MVP consists of two main components:
 
 ## 🚀 Live Demo
 
-- 🌐 **Web Version:** [https://healthmate.web.app](https://healthmate.web.app)  
+- 🌐 **Web Version:** Not deployed 
 - 🧠 **API Base URL:** [https://healthmate-api.onrender.com](https://healthmate-backend-kh0n.onrender.com)
-
-*(Update the links above once deployed)*
 
 ---
 
@@ -76,7 +74,8 @@ AI Models (OCR / Image Recognition)
 
 ## 📸 Screenshots (To Add Later)
 
-*Add screenshots or UI previews here once your Flutter UI is ready.*
+# Home Screen
+<img src="screenshots/home.png" width="300">
 
 ---
 

@@ -30,17 +30,12 @@ The HealthMate MVP consists of two main components:
 - User authentication (signup, login, and session check)
 - Add and track medications with refill reminders
 - Add and view upcoming health appointments
-- Record health measurements manually or via image upload (OCR)
-- View history of blood pressure and sugar readings with graphs
+- Record health measurements manually or via image upload (OCR) *(planned feature)*
+- View history of blood pressure and sugar readings
 - Smart AI assistant for voice and text-based health guidance *(planned feature)*
 
 ### 👥 User Management
-- Each user can manage their own profile  
-- Option to add up to 5 dependents (family members)
-
-### 🔔 Reminders
-- Automatic reminders for medication and refill dates  
-- Appointment notifications  
+- Each user can manage their own profile   
 
 ---
 
@@ -65,7 +60,7 @@ AI Models (OCR / Image Recognition)
 | **Frontend (MVP)** | Dart, Flutter, Flutter Web                                  |
 | **Backend**        | Python, FastAPI, Firebase Firestore                         |
 | **AI Processing**  | Tesseract OCR, OpenCV, PyTorch (planned for rash detection) |
-| **Deployment**     | Firebase Hosting (web), Render/Railway (backend)            |
+| **Deployment**     | Firebase Hosting (web), Render (backend)            `       |
 
 ---
 
@@ -90,7 +85,7 @@ AI Models (OCR / Image Recognition)
 ### Frontend (Flutter)
 
 ```bash
-git clone https://github.com/yourusername/healthmate-flutter.git
+git clone https://github.com/Jeanne21/healthmate-flutter.git
 cd healthmate-flutter
 flutter pub get
 flutter run
@@ -99,7 +94,7 @@ flutter run
 ### Backend (FastAPI)
 
 ```bash
-git clone https://github.com/yourusername/healthmate-backend.git
+git clone https://github.com/Jeanne21/healthmate-backend.git
 cd healthmate-backend
 pip install -r requirements.txt
 uvicorn app.main:app --reload
